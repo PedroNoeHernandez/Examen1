@@ -1,0 +1,19 @@
+{
+    "database":{
+        "host":"",
+        "user":"",
+        "password":"",
+        "schema":""
+    },
+    "snowflake":{
+        "EPOCH":1420070400000,
+        "SERVER":100,
+        "NODE_ID_BITS": 10,
+        "SEQUENCE_BITS": 12
+    },
+    "auth":{
+        "path":"./auth",
+        "pubRsa":"./pub.pem",
+        "pvtRsa":"./pvt.pem"
+    }
+}
