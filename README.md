@@ -86,14 +86,14 @@ No olvides importar los elementos previamente creados.
 ## Preguntas
 Responde estas preguntas en este archivo.
 
-1.- ¿Qué es un módelo?
+1.- ¿Qué es un modelo?
 
 2.- ¿Qué es un controlador?
 
-3.- ¿Cuáles son los métodos para Métodos de petición HTTP más comunes?
+3.- ¿Cuáles son los métodos de petición HTTP más comunes?
 
 4.- ¿Qué es un tablero de control?(en administración de proyectos informáticos)
 
-5.- ¿Cuál es la objeto de Javascript que nos premite hacer solicitude HTTP?
+5.- ¿Cuál es el objeto de Javascript que nos permite hacer solicitude HTTP?
 
-6.- ¿Por qué teniendo todo el semestre para hacer 6 laboratorios sencillo donde solo copiabas y pegabas código y hacer un tutorial de youtube de 1 hora para hacer un CRUD preferiste hacer este examen?
+6.- ¿Cuáles son los motivos por los que terminaste haciendo este examen?
